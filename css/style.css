@@ -1,8 +1,6 @@
 /*
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
+Author: Alexsander Leal
+
 */
  /* reset */
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,dl,dt,dd,ol,nav ul,nav li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
@@ -60,7 +58,7 @@ body {
 	font-weight:bold;
 }
 .call p span.number{
-	color:#E4292F;
+	color:#006633;
 	font-size:1em;
 	letter-spacing:1px;
 }
@@ -81,7 +79,7 @@ body {
 	font-family: 'ambleregular';
 }
 .account_desc li a:hover{
-	color:#E4292F;
+	color:#006633;
 }
 .header_top {
 	padding: 20px 0;
@@ -104,7 +102,7 @@ body {
 }
 .cart p span{
 	font-size:1.5em;
-	color:#E4292F;
+	color:#006633;
 }
 .wrapper-dropdown-2 {
     display:inline-block;
@@ -156,7 +154,7 @@ body {
     transition: all 0.3s ease-out;
 }
 .wrapper-dropdown-2 .dropdown li:hover a {
-    color:red;
+    color:#006633;
     background:#AAA;
 }
 .wrapper-dropdown-2.active:after {
@@ -195,7 +193,7 @@ body {
    transition: all .9s;
 }
 .menu li a:hover,.menu li.active a{
-	background:#B81D22;
+	background:#006633;
 }
 .menu li:first-child  a{
 	border-radius:6px 0 0 6px;
@@ -248,7 +246,7 @@ body {
 	font-size:1.2em;
 	color:#FFF;
 	padding:10px;
-	background:#B81D22;
+	background:#006633;
 	text-transform:uppercase;
 	font-family: 'ambleregular';	
 }
@@ -261,13 +259,14 @@ body {
     margin:0 20px;
     background:url(../images/drop_arrow.png) no-repeat 0;
     border-bottom: 1px solid #EEE;
-    text-transform:uppercase;	
+    text-transform:uppercase;
+		
 }
 .categories li:last-child a{
 	border:none;
 }
 .categories li a:hover{
-	color:#B81D22;
+	color:#006633;
 }
 .header_bottom_right{
 	float:left;
@@ -321,7 +320,7 @@ body {
     padding:0px 12px 0px 0px;
 }
 .see p a:hover{
-	color: #E4292F;
+	color: #006633;
 }
 /**** Grid 1_0f_4 ****/
 .grid_1_of_4 {
@@ -359,11 +358,11 @@ body {
 .images_1_of_4  p span.price {
 	font-size: 18px;
 	font-family: 'ambleregular';
-	color:#CC3636;
+	color:#006633;
 }
 .price-details{
 	margin-top:10px;
-	border-top:1px solid #CD1F25;
+	border-top:1px solid #006633;
 }
 .price-number{
 	float: left;
@@ -383,7 +382,7 @@ body {
 	display: block;
 	padding:10px 15px;
 	font-family: 'ambleregular';
-	background:#CD1F25;
+	background:#006633;
 	color: #FFF;
 	text-decoration: none;
 	outline: 0;
@@ -464,7 +463,7 @@ body {
 	display:block;
 }
 .span_1_of_4  li a:hover, .span_1_of_4  li span:hover {
-	color:#DD0F0E;
+	color:#006633;
 }
 /*** Social Icons ***/
 .social-icons {
@@ -489,7 +488,7 @@ body {
 	color: #747474;
 }
 .copy_right p a {
-	color:#DD0F0E;
+	color:#006633;
 	font-family: 'ambleregular';
 	text-decoration: underline;
 }
@@ -541,7 +540,7 @@ body {
 	font-family: 'ambleregular';
 }
 .back-links p a:hover, .back-links p a:active {
-	color:#B81D22;
+	color:#006633;
 }
 .image {
 	clear: both;
@@ -602,7 +601,7 @@ body {
 .span_3_of_2  h2 {
 	font-family: 'ambleregular';
 	font-size: 1.1em;
-	color:#CD1F25;
+	color:#006633;
 	font-weight: normal;
 	margin-top: 0px;
 	text-transform: uppercase;
@@ -623,11 +622,11 @@ body {
 .price p span {
 	font-size:3em;
 	font-family: 'ambleregular';
-	color:#CD1F25;;
+	color:#006633;;
 }
 .available {
 	padding:20px 0;
-	border-top: 1px solid #CD1F25;
+	border-top: 1px solid #006633;
 }
 .available p {
 	font-size: 0.9em;
@@ -685,7 +684,7 @@ body {
 	text-decoration: underline;
 }
 .wish-list li a:hover {
-	color: #E4292F;
+	color: #006633;
 }
 .wish-list li.wish{
 	background:url(../images/wishlist.png) no-repeat 0;
@@ -746,7 +745,7 @@ body {
 	font-size:1em;
 	padding:10px 15px;
 	font-family: 'ambleregular';
-	background:#CD1F25;
+	background:#006633;
 	color: #FFF;
 	text-decoration: none;
 	outline: 0;
@@ -776,7 +775,7 @@ body {
 }
 .review h4 a:hover{
 	text-decoration:none;
-	color:#E4292F;
+	color:#006633;
 }
 .review ul{
 	margin-top:10px;
@@ -814,7 +813,7 @@ body {
 	font-family :verdana, arial, helvetica, helve, sans-serif;
 }
 .your-review label span.red{
-	color:#CD1F25;
+	color:#006633;
 	display:inline;
 }
 .your-review input[type="text"],.your-review textarea{
@@ -837,7 +836,7 @@ body {
     font-size:1em;
 	padding:10px 15px;
 	font-family: 'ambleregular';
-	background:#CD1F25;
+	background:#006633;
 	color: #FFF;
 	text-decoration: none;
 	border:none;
@@ -863,7 +862,7 @@ body {
 }
 .span_3_of_1 li a:hover {
 	background: url(../images/drop_arrow-hover.png) no-repeat 0;
-	color:#B81D22;
+	color:#006633;
 }
 .span_3_of_2 .button {
 	float: right;
@@ -946,7 +945,7 @@ body {
 	-webkit-box-shadow: 1px 1px 0 0 #414141 inset, -1px -1px 0 0 #414141 inset, 0 1px 2px -1px rgba(0,0,0,0.15);
 }
 .community-poll p {
-	color: #CD1F25;
+	color: #006633;
 	font-size: 0.85em;
 	padding:5px  0;
 }
@@ -1008,7 +1007,7 @@ body {
 	width:50px;
 }
 .year p {
-	color: #E4292F;
+	color: #006633;
 	font-size: 0.95em;
 }
 .span_1_of_3  p.history {
@@ -1021,7 +1020,7 @@ body {
 .span_1_of_3 .list li a {
 	font-size: 0.82em;
 	padding:7px 15px;
-	color: #E4292F;
+	color: #006633;
 	background: url(../images/drop_arrow.png) no-repeat 0px 10px;
 	display: block;
 	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
@@ -1081,7 +1080,7 @@ body {
       margin:15px 0;
  }
 #posts .tab .post-title{
-	color:#B81D22;
+	color:#006633;
 	font-size:1em;
 	font-family: 'ambleregular';
 	overflow:hidden;
@@ -1140,7 +1139,7 @@ body {
 	border:1px solid #E0E0E0;
 }
 .news_desc  h3{
-	color:#B81D22;
+	color:#006633;
 	margin-bottom:0.3em;
 	font-size:1.2em;
 	text-transform:uppercase;
@@ -1150,7 +1149,7 @@ body {
 	text-decoration:underline;
 }
 .news_desc h4 span a:hover{
-	color:#B81D22;
+	color:#006633;
 	text-decoration:none;
 }
 .news_desc h4 ,.news_desc h4 a{
@@ -1166,7 +1165,7 @@ body {
 }
 .news_desc p a{
 	font-size:1em;
-	color:#B81D22;
+	color:#006633;
 }
 /*** Page numbers ***/
 .content-pagenation{
@@ -1275,7 +1274,7 @@ body {
 	font-size:1em;
 	padding:10px 15px;
 	font-family: 'ambleregular';
-	background:#CD1F25;
+	background:#006633;
 	color: #FFF;
 	border:none;
 	text-decoration: none;
